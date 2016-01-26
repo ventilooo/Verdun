@@ -1,7 +1,9 @@
+======================
 Contrôle des nuisances
 ======================
 
-## **Grafittis**
+Grafittis
+---------
 
 * Dans l'arrondissement, il est interdit d'écrire, de dessiner, d'apposer, de graver ou de tracer des signes ou des messages sur un immeuble, mobilier urbain, voiture, domaine public et boîtes aux lettres. Il est également interdit de laisser ou de permettre que soient laissés sur son immeuble, des graffitis, signes ou messages.
 
@@ -15,7 +17,8 @@ Communiquez avec le bureau Accès Verdun au 311 pour signaler la présence de gr
 
  
 
-## **Propreté, nuisances et parcs**  
+Propreté, nuisances et parcs  
+----------------------------
 
  Afin d'assurer la tranquillité et la qualité de vie de tous les citoyens, voici quelques règles de civisme à respecter.  
  
