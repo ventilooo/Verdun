@@ -2,7 +2,7 @@
 Contrôle des nuisances
 ======================
 
-Grafittis
+Graffitis
 ---------
 
 * Dans l'arrondissement, il est interdit d'écrire, de dessiner, d'apposer, de graver ou de tracer des signes ou des messages sur un immeuble, mobilier urbain, voiture, domaine public et boîtes aux lettres. Il est également interdit de laisser ou de permettre que soient laissés sur son immeuble, des graffitis, signes ou messages.
@@ -22,11 +22,16 @@ Propreté, nuisances et parcs
 
  Afin d'assurer la tranquillité et la qualité de vie de tous les citoyens, voici quelques règles de civisme à respecter.  
  
- Il est interdit de :  
+ Il est interdit de :
+   
 * troubler la paix ou la tranquillité d’une personne habitant un autre bâtiment ou une partie du même bâtiment, par des cris ou des chants ou par l’utilisation d’un instrument de musique ou d’un appareil mécanique, électrique ou électronique;
+  
 * de faire ou de permettre qu’il soit fait usage d’une radio, d’un instrument, d’un appareil ou d’un moteur propre à produire ou à reproduire des sons ou à causer un bruit excessif de façon à troubler la paix et la tranquillité, entre 23 h et 7 h du lundi au vendredi et entre 21 h et 9 h le samedi et le dimanche;
-d’exécuter, de faire exécuter ou de permettre que soient exécutés des travaux de construction, de modification, de réparation ou de démolition d’un bâtiment ou d’une structure de façon à troubler la paix et la tranquillité des occupants des bâtiments adjacents, entre 21 h et 7 h du lundi au vendredi et entre 17 h et 8 h le samedi et le dimanche;
+
+* d’exécuter, de faire exécuter ou de permettre que soient exécutés des travaux de construction, de modification, de réparation ou de démolition d’un bâtiment ou d’une structure de façon à troubler la paix et la tranquillité des occupants des bâtiments adjacents, entre 21 h et 7 h du lundi au vendredi et entre 17 h et 8 h le samedi et le dimanche;
+
 * d’opérer, de faire opérer ou de laisser opérer une pelle mécanique, une pièce de machinerie ou tout autre véhicule motorisé, incluant le démarrage, réchauffement du moteur et tout outil bruyant, de façon à troubler la paix et la tranquillité des occupants des bâtiments adjacents, entre 21 h et 7 h du lundi au vendredi et entre 17 h et 8 h le samedi et le dimanche toute la journée;
+
 * de livrer ou permettre que soient livrés des matériaux de construction, rénovation, de marchandises, meubles ou autres biens, du lundi au vendredi entre 21 h et 7 h et entre 17 h et 8 h le samedi et le dimanche.  
 
 De plus, certaines règles doivent être respectées en ce qui concerne les lieux publics, tels les parcs. Il est donc interdit de se trouver dans un parc, un parc desservant une école, un espace vert, dans le Domaine Saint-Paul ou sur un quai entre 21 h et 7 h ou de 23 h à 7 h.

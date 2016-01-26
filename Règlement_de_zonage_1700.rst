@@ -1,6 +1,6 @@
- ========================
+=========================  
  RÈGLEMENT DE ZONAGE 1700
- ========================
+=========================
 
 L’arrondissement de Verdun a divisé son territoire en différentes zones — résidentielles, commerciales, mixtes, institutionnelles, parcs et espaces verts — et en a déterminé la vocation afin d’y contrôler l’usage des terrains et des bâtiments ainsi que l’implantation, la forme et l’apparence des constructions.
 
