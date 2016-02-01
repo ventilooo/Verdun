@@ -1,0 +1,16 @@
+sudo: false
+cache: pip
+
+language: python
+
+python:
+  - "2.7"
+
+virtualenv:
+  system_site_packages: true
+
+install:
+  - pip install rstcheck
+
+script:
+  - 'find . -name "*.rst" | xargs rstcheck'
