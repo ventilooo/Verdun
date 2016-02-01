@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Ville-de-Montreal/Verdun.svg?branch=master)](https://travis-ci.org/Ville-de-Montreal/Verdun)
+
 ========================
 Arrondissement de Verdun
 ========================
