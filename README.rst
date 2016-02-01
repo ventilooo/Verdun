@@ -16,6 +16,6 @@ Ce dépôt contient tous les règlements de l'Arrondissement de Verdun.
 .. _`Déneigement`: Déneigement.rst
 .. _`Règlement sur les tarifs`: Règlement_sur_les_tarifs.rst
 .. _`Salubrité et entretien des immeubles`: Salubrité_et_entretien_des_immeubles.rst
-.. _`Signalisation et stationnement`: Stationnement/Signalisation_et_stationnement.rst
+.. _`Signalisation et stationnement`: Stationnement/README.rst
 
 N'hésitez pas à en faire une copie et à suggérer des améliorations.
